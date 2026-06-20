@@ -35,14 +35,14 @@ Dataset	                 Description
 ### deliveries.csv	         Ball-by-ball delivery data including batsman runs, extras, wickets, over details, and bowlers
 
 ## Technoogies Used 
-Programming anguage
-### Python
+Programming language
+#### Python
  Libraries Used
- ### Pandas
- ### Numpy
- ### Matplotlib
- ### seaborn
- ### Folium
+ #### Pandas
+ #### Numpy
+ #### Matplotlib
+ #### seaborn
+ #### Folium
 
  ## Project Workflow
  ### Data Loading
@@ -76,7 +76,15 @@ Generated statistical summaries to understand numerical and categorical distribu
 #### Checked categoryyy distributions
 
 ### Methods Used
+
 #### describe()
 #### value_counts()
+
+## Data Cleaning & Preprocessing
+Data Preprocessing was performed to improve data quality and prepare the datasets foe analysis.
+ ### Missing value identification
+ #### Actives performed
+ ####Detected null values
+ #### 
 
 
