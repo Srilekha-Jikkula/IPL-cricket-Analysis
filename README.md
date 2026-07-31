@@ -86,5 +86,6 @@ Data Preprocessing was performed to improve data quality and prepare the dataset
  #### Actives performed
  ####Detected null values
  #### 
+<img width="1107" height="652" alt="image" src="https://github.com/user-attachments/assets/ca6c5996-44e7-4a14-b025-122802d9467e" />
 
 
