@@ -102,6 +102,31 @@ shape to understand dataset size
 info() to inspect data types and non-null counts
 describe() to analyze distributions and ranges
 This step helps identify potential data quality issues early in the analysis process.
+<img width="1367" height="157" alt="image" src="https://github.com/user-attachments/assets/c501f98e-0bf0-432b-b268-b784d5ed30c2" />
+#### Output
+<img width="1372" height="516" alt="image" src="https://github.com/user-attachments/assets/77238026-dc7b-4219-be4a-9afc26b9bd17" />
+
+<img width="1397" height="37" alt="image" src="https://github.com/user-attachments/assets/aa9c85df-c349-4671-b241-0ce72688abb8" />
+#### Output:
+<img width="1405" height="512" alt="image" src="https://github.com/user-attachments/assets/db697fef-00f1-4f6f-8748-4f222896d04d" />
+
+<img width="1087" height="172" alt="image" src="https://github.com/user-attachments/assets/617526d9-42e0-4ad6-9932-d0859da5998c" />
+#### Output:
+Matches dataset shape: (1095, 20)
+,Deliveries dataset shape: (260920, 17)
+
+<img width="802" height="137" alt="image" src="https://github.com/user-attachments/assets/58b278a0-8c22-4b2a-94b2-47f4e0f37e04" />
+#### Output:
+<img width="627" height="577" alt="image" src="https://github.com/user-attachments/assets/21432ac8-76bf-4629-ac31-0c69b47abbd6" />
+
+<img width="1052" height="62" alt="image" src="https://github.com/user-attachments/assets/4f4682bc-21eb-489e-af99-5b5c05ea173d" />
+#### Output:
+<img width="716" height="527" alt="image" src="https://github.com/user-attachments/assets/f884bc81-f129-4f3c-8618-026082ab1185" />
+
+## Statistical Summary
+
+
+
 
 
 
