@@ -103,24 +103,25 @@ info() to inspect data types and non-null counts
 describe() to analyze distributions and ranges
 This step helps identify potential data quality issues early in the analysis process.
 <img width="1367" height="157" alt="image" src="https://github.com/user-attachments/assets/c501f98e-0bf0-432b-b268-b784d5ed30c2" />
-#### Output
+
+### Output
 <img width="1372" height="516" alt="image" src="https://github.com/user-attachments/assets/77238026-dc7b-4219-be4a-9afc26b9bd17" />
 
 <img width="1397" height="37" alt="image" src="https://github.com/user-attachments/assets/aa9c85df-c349-4671-b241-0ce72688abb8" />
-#### Output:
+### Output:
 <img width="1405" height="512" alt="image" src="https://github.com/user-attachments/assets/db697fef-00f1-4f6f-8748-4f222896d04d" />
 
 <img width="1087" height="172" alt="image" src="https://github.com/user-attachments/assets/617526d9-42e0-4ad6-9932-d0859da5998c" />
-#### Output:
+### Output:
 Matches dataset shape: (1095, 20)
 ,Deliveries dataset shape: (260920, 17)
 
 <img width="802" height="137" alt="image" src="https://github.com/user-attachments/assets/58b278a0-8c22-4b2a-94b2-47f4e0f37e04" />
-#### Output:
+### Output:
 <img width="627" height="577" alt="image" src="https://github.com/user-attachments/assets/21432ac8-76bf-4629-ac31-0c69b47abbd6" />
 
 <img width="1052" height="62" alt="image" src="https://github.com/user-attachments/assets/4f4682bc-21eb-489e-af99-5b5c05ea173d" />
-#### Output:
+### Output:
 <img width="716" height="527" alt="image" src="https://github.com/user-attachments/assets/f884bc81-f129-4f3c-8618-026082ab1185" />
 
 ## Statistical Summary
@@ -142,13 +143,13 @@ These insights guide decisions for further cleaning and feature engineering.
 
 <img width="395" height="170" alt="image" src="https://github.com/user-attachments/assets/ec7b6113-1aa8-4b3a-a4db-bac78123bcdb" />
 
-#### Out Put:
+### Out Put:
 
 <img width="627" height="390" alt="image" src="https://github.com/user-attachments/assets/6c66357d-daee-495d-8ec2-12b8c84a5710" />
 
 <img width="522" height="92" alt="image" src="https://github.com/user-attachments/assets/46f08788-0b6e-41f6-b128-f3530c96cce6" />
 
-#### Out Put:
+### Out Put:
 
 <img width="1150" height="425" alt="image" src="https://github.com/user-attachments/assets/f10e7b6b-58b5-4ed7-afdd-0e0e5f0495c1" />
 
@@ -168,17 +169,16 @@ Column-wise or row-wise null counts
 Visual inspection or percentage-based thresholds
 
 Understanding missing data is critical before applying cleaning or transformation steps.
+
 <img width="617" height="162" alt="image" src="https://github.com/user-attachments/assets/34cc24f1-7410-4d5d-8cf1-70b50f999366" />
-
-
 ### Out Put:
 <img width="447" height="470" alt="image" src="https://github.com/user-attachments/assets/b5ab6ffa-9430-48de-98b5-9801946966b2" />
 
-
-<img width="347" height="42" alt="image" src="https://github.com/user-attachments/assets/145f35d8-4560-4188-b480-38c9c351e062" />
-
+<img width="635" height="87" alt="image" src="https://github.com/user-attachments/assets/1f7ac940-9c8d-484e-96d4-9918f550df66" />
 ### Out Put:
 <img width="452" height="411" alt="image" src="https://github.com/user-attachments/assets/5dfc79fb-8115-408d-99ae-394515edb7ee" />
+
+
 
 
 
