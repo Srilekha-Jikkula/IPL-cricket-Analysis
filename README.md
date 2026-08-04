@@ -271,6 +271,62 @@ With validated and clean data, the dataset is now ready for feature engineering 
 
 ## Feature Engineering
 
+Feature engineering is the process of creating new variables (features) from existing data to make analysis more meaningful and insightful.
+Raw datasets often do not directly provide all the information required to answer analytical questions.
+
+At this stage, data analysts focus on:
+
+Creating derived columns that simplify analysis.
+Translating raw data into meaningful indicators.
+Preparing data for aggregations and comparisons.
+
+Feature engineering improves:
+
+Analytical depth.
+Interpretability of results.
+Ability to answer business-oriented questions.
+
+In this project, we create match-level and ball-level features to better understand match outcomes, scoring patterns, and player performance.
+
+
+<img width="1462" height="437" alt="image" src="https://github.com/user-attachments/assets/33be5844-7790-44a6-aea5-7b34328cdff6" />
+
+<img width="1370" height="82" alt="image" src="https://github.com/user-attachments/assets/400038fd-73d5-47e2-8d83-f8887c17e5ae" />
+
+<img width="1221" height="141" alt="image" src="https://github.com/user-attachments/assets/3b37a2f6-d0b9-4e66-9bc0-0829e7751152" />
+
+<img width="1374" height="70" alt="image" src="https://github.com/user-attachments/assets/d906a252-634b-4d17-892d-97c3abe3ddab" />
+
+### Out Put:
+
+<img width="1402" height="742" alt="image" src="https://github.com/user-attachments/assets/4b354ecf-1f10-46ab-9029-125b4e078843" />
+
+<img width="1477" height="661" alt="image" src="https://github.com/user-attachments/assets/923fee23-1a5d-4c69-984f-412a8e1ca403" />
+
+### Out Put:
+
+<img width="751" height="317" alt="image" src="https://github.com/user-attachments/assets/15edfe55-80b0-4a65-a2a2-4ddd63fe349c" />
+
+<img width="1432" height="90" alt="image" src="https://github.com/user-attachments/assets/124a2f9a-8505-477e-8130-840c4d29568e" />
+
+### Out Put:
+
+<img width="687" height="307" alt="image" src="https://github.com/user-attachments/assets/0b4b95ed-b06b-4b6a-9275-a22928843621" />
+
+
+## Exploratory Data Analysis (EDA): Match-Level Insights
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
