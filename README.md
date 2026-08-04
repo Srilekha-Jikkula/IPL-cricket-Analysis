@@ -174,6 +174,7 @@ Understanding missing data is critical before applying cleaning or transformatio
 ### Out Put:
 <img width="447" height="470" alt="image" src="https://github.com/user-attachments/assets/b5ab6ffa-9430-48de-98b5-9801946966b2" />
 
+
 <img width="347" height="42" alt="image" src="https://github.com/user-attachments/assets/145f35d8-4560-4188-b480-38c9c351e062" />
 
 ### Out Put:
