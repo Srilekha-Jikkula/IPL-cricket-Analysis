@@ -105,23 +105,32 @@ This step helps identify potential data quality issues early in the analysis pro
 <img width="1367" height="157" alt="image" src="https://github.com/user-attachments/assets/c501f98e-0bf0-432b-b268-b784d5ed30c2" />
 
 ### Output
+
 <img width="1372" height="516" alt="image" src="https://github.com/user-attachments/assets/77238026-dc7b-4219-be4a-9afc26b9bd17" />
 
 <img width="1397" height="37" alt="image" src="https://github.com/user-attachments/assets/aa9c85df-c349-4671-b241-0ce72688abb8" />
+
 ### Output:
+
 <img width="1405" height="512" alt="image" src="https://github.com/user-attachments/assets/db697fef-00f1-4f6f-8748-4f222896d04d" />
 
 <img width="1087" height="172" alt="image" src="https://github.com/user-attachments/assets/617526d9-42e0-4ad6-9932-d0859da5998c" />
+
 ### Output:
+
 Matches dataset shape: (1095, 20)
 ,Deliveries dataset shape: (260920, 17)
 
 <img width="802" height="137" alt="image" src="https://github.com/user-attachments/assets/58b278a0-8c22-4b2a-94b2-47f4e0f37e04" />
+
 ### Output:
+
 <img width="627" height="577" alt="image" src="https://github.com/user-attachments/assets/21432ac8-76bf-4629-ac31-0c69b47abbd6" />
 
 <img width="1052" height="62" alt="image" src="https://github.com/user-attachments/assets/4f4682bc-21eb-489e-af99-5b5c05ea173d" />
+
 ### Output:
+
 <img width="716" height="527" alt="image" src="https://github.com/user-attachments/assets/f884bc81-f129-4f3c-8618-026082ab1185" />
 
 ## Statistical Summary
@@ -173,11 +182,13 @@ Understanding missing data is critical before applying cleaning or transformatio
 <img width="617" height="162" alt="image" src="https://github.com/user-attachments/assets/34cc24f1-7410-4d5d-8cf1-70b50f999366" />
 
 ### Out Put:
+
 <img width="447" height="470" alt="image" src="https://github.com/user-attachments/assets/b5ab6ffa-9430-48de-98b5-9801946966b2" />
 
 <img width="635" height="87" alt="image" src="https://github.com/user-attachments/assets/1f7ac940-9c8d-484e-96d4-9918f550df66" />
 
 ### Out Put:
+
 <img width="452" height="411" alt="image" src="https://github.com/user-attachments/assets/5dfc79fb-8115-408d-99ae-394515edb7ee" />
 
 ## Handling Missing Values
@@ -315,6 +326,111 @@ In this project, we create match-level and ball-level features to better underst
 
 
 ## Exploratory Data Analysis (EDA): Match-Level Insights
+
+Exploratory Data Analysis (EDA) helps uncover patterns, trends, and relationships in data before drawing conclusions.
+At the match level, EDA focuses on understanding how teams perform across seasons and how match-level factors influence outcomes.
+
+In this section, we analyze:
+
+Distribution of matches across seasons
+Team-wise match wins
+Impact of winning the toss on match results
+Match outcome patterns
+
+These insights provide a high-level u
+
+<img width="1352" height="207" alt="image" src="https://github.com/user-attachments/assets/53ae72f8-629b-4c7d-9052-706e3053dd46" />
+
+### Out Put:
+
+<img width="545" height="411" alt="image" src="https://github.com/user-attachments/assets/c6086f76-a07d-414e-a78f-9c85ad56fe79" />
+
+<img width="1352" height="242" alt="image" src="https://github.com/user-attachments/assets/fcac8204-ffc3-4b86-952d-c0038990c02e" />
+
+<img width="1197" height="642" alt="image" src="https://github.com/user-attachments/assets/aa7f1889-3bd0-49a3-8849-e0a099fdc446" />
+
+<img width="1252" height="220" alt="image" src="https://github.com/user-attachments/assets/8fb392ff-36b6-4ee4-aeb5-3a0f982a6dbc" />
+
+### Out Put:
+
+<img width="892" height="285" alt="image" src="https://github.com/user-attachments/assets/0467dec4-3b9b-49b9-94ca-eaa6041823e4" />
+
+<img width="1232" height="275" alt="image" src="https://github.com/user-attachments/assets/170db80e-2b4c-4d9f-b0dd-b5851a67c845" />
+
+<img width="1305" height="751" alt="image" src="https://github.com/user-attachments/assets/7982074c-2940-4abb-9b6a-7462f4e48c53" />
+
+<img width="1215" height="185" alt="image" src="https://github.com/user-attachments/assets/4f5335dd-f0ad-40b1-90c8-00561e0b3b52" />
+
+### Out Put:
+
+<img width="536" height="112" alt="image" src="https://github.com/user-attachments/assets/76d7355b-975f-464e-8746-14e1f5b34331" />
+
+<img width="1072" height="182" alt="image" src="https://github.com/user-attachments/assets/2c50f921-5029-48f9-9e74-55823c5c6745" />
+
+### Out Put:
+
+<img width="546" height="57" alt="image" src="https://github.com/user-attachments/assets/68bc09f0-1af5-4d44-93a2-098b9f361c42" />
+
+<img width="1216" height="232" alt="image" src="https://github.com/user-attachments/assets/9ab28914-28bb-4869-869c-cad3665ab627" />
+
+<img width="1007" height="490" alt="image" src="https://github.com/user-attachments/assets/d00cc355-c61a-4954-b18e-72146ac42d70" />
+
+<img width="872" height="186" alt="image" src="https://github.com/user-attachments/assets/0ba1b65e-36ba-492d-88b3-972799d44b37" />
+
+### Out Put:
+
+<img width="1057" height="147" alt="image" src="https://github.com/user-attachments/assets/bc41bf77-19a1-4304-8215-81e282465b4e" />
+
+<img width="912" height="257" alt="image" src="https://github.com/user-attachments/assets/b3bb5680-3ef7-4ce8-969e-6edd6875877a" />
+
+<img width="670" height="627" alt="image" src="https://github.com/user-attachments/assets/aa7564d2-2cc7-4550-a226-0d16d7195734" />
+
+<img width="1042" height="166" alt="image" src="https://github.com/user-attachments/assets/73b437bc-0642-40dc-aedb-6f284f8858b8" />
+
+### Out Put:
+
+<img width="962" height="95" alt="image" src="https://github.com/user-attachments/assets/29901b20-2983-455b-a5e9-e061983862af" />
+
+<img width="1342" height="325" alt="image" src="https://github.com/user-attachments/assets/e43d31b0-23db-4dc9-9021-5e77fba1e409" />
+
+### Out Put:
+
+<img width="1402" height="746" alt="image" src="https://github.com/user-attachments/assets/6dbaee3a-f289-42c4-929f-4c27ca0c34a6" />
+
+## Key Insights
+
+Some teams consistently outperform others across seasons.
+
+Winning the toss does not guarantee a match win.
+
+Majority of matches are won either by chasing or defending based on conditions.
+
+Match outcomes vary season by season.
+
+## Exploratory Data Analysis (EDA): Ball-Level Insights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
