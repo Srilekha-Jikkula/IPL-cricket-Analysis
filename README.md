@@ -171,12 +171,113 @@ Visual inspection or percentage-based thresholds
 Understanding missing data is critical before applying cleaning or transformation steps.
 
 <img width="617" height="162" alt="image" src="https://github.com/user-attachments/assets/34cc24f1-7410-4d5d-8cf1-70b50f999366" />
+
 ### Out Put:
 <img width="447" height="470" alt="image" src="https://github.com/user-attachments/assets/b5ab6ffa-9430-48de-98b5-9801946966b2" />
 
 <img width="635" height="87" alt="image" src="https://github.com/user-attachments/assets/1f7ac940-9c8d-484e-96d4-9918f550df66" />
+
 ### Out Put:
 <img width="452" height="411" alt="image" src="https://github.com/user-attachments/assets/5dfc79fb-8115-408d-99ae-394515edb7ee" />
+
+## Handling Missing Values
+Once missing values are identified, the next step is to handle them based on business logic and data context.
+The goal is to preserve useful information while minimizing bias and errors.
+
+Common techniques include:
+
+Replacing missing values with meaningful labels for categorical data
+Imputing values using statistical measures such as mean, median, or mode
+Dropping rows or columns when missing data is excessive
+Leaving missing values unchanged if they convey important information
+
+The choice of method depends on the nature of the data and the analysis objective.
+
+<img width="1392" height="260" alt="image" src="https://github.com/user-attachments/assets/b348e5af-d8db-4da9-8f20-e0f787631a28" />
+
+<img width="1245" height="145" alt="image" src="https://github.com/user-attachments/assets/5e77d255-741e-4fc8-a143-4eac7d1162ed" />
+
+### Out Put:
+
+<img width="517" height="487" alt="image" src="https://github.com/user-attachments/assets/f58969ab-30aa-496b-9f31-3470ebbc35a3" />
+
+## Data Type Conversion
+
+Correct data types are essential for accurate analysis and computation.
+Certain operations, such as time-based analysis or mathematical calculations, require proper data types.
+
+At this stage, analysts typically:
+Convert date columns into datetime format
+Ensure numeric columns are not stored as strings
+Validate categorical and boolean fields
+
+Common techniques used:
+pd.to_datetime() for date conversion
+Type casting using astype()
+Verifying data types using info()
+
+This step enables efficient analysis and prevents logical errors.
+
+<img width="772" height="182" alt="image" src="https://github.com/user-attachments/assets/edcbb611-6ebd-43c1-b3a9-4ccc4582ceb6" />
+
+## Column Standardization
+Standardizing column names improves code readability and consistency across the project.
+It also reduces the risk of errors caused by inconsistent naming conventions.
+
+At this stage, analysts:
+
+Convert column names to a consistent case
+Remove unnecessary spaces or special characters
+Apply naming conventions that are easy to reference
+
+Common techniques include:
+
+Converting column names to lowercase
+Stripping whitespace
+Replacing spaces with underscores
+
+<img width="1062" height="205" alt="image" src="https://github.com/user-attachments/assets/4757f55d-f542-4b38-8f97-75c838ed5351" />
+
+## Final Data Validation
+
+Before moving on to analysis and visualization, it is important to validate the cleaned dataset.
+This ensures that previous cleaning and preprocessing steps were applied correctly.
+At this stage, analysts:
+
+Recheck missing values.
+Verify data types.
+Review a few records to confirm changes.
+
+Common techniques used:
+
+Re-running info() and isnull().sum().
+Inspecting sample rows using head().
+Comparing dataset shape before and after cleaning.
+
+With validated and clean data, the dataset is now ready for feature engineering and exploratory data analysis.
+
+<img width="1072" height="177" alt="image" src="https://github.com/user-attachments/assets/310c42a3-1487-48c6-8779-62fea0faef84" />
+
+### Out Put:
+
+<img width="1110" height="592" alt="image" src="https://github.com/user-attachments/assets/efac7b72-d66d-4c7c-94eb-ddd2c7dc1ea2" />
+
+
+<img width="857" height="92" alt="image" src="https://github.com/user-attachments/assets/11efaa65-43ee-412a-9bcc-994dd7ef5114" />
+
+### Out Put:
+
+<img width="876" height="527" alt="image" src="https://github.com/user-attachments/assets/9e1465b9-8b94-4bc1-88f4-c52e0da81f19" />
+
+## Feature Engineering
+
+
+
+
+
+
+
+
 
 
 
