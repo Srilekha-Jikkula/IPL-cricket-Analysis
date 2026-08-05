@@ -455,7 +455,197 @@ This level of analysis is critical for understanding player impact and strategic
 
 <img width="1245" height="310" alt="image" src="https://github.com/user-attachments/assets/3dd62efe-34bb-460e-953a-7fde609f4f2f" />
 
+### Out Put:
+
 <img width="652" height="257" alt="image" src="https://github.com/user-attachments/assets/097cc5e2-a1f9-4a20-821f-78573e5781ea" />
+
+<img width="815" height="247" alt="image" src="https://github.com/user-attachments/assets/ba9c1644-5c0f-4e7b-ad1a-84e9bad2c63d" />
+
+<img width="1267" height="661" alt="image" src="https://github.com/user-attachments/assets/d92645c3-f465-4fae-aab7-0192d402bc00" />
+
+<img width="1075" height="372" alt="image" src="https://github.com/user-attachments/assets/580e1aeb-0b86-4779-923b-2bce3f90029e" />
+
+### Out Put:
+
+<img width="906" height="505" alt="image" src="https://github.com/user-attachments/assets/e7c91c73-fa3a-4967-bf0e-c205a0d9b604" />
+
+<img width="1127" height="357" alt="image" src="https://github.com/user-attachments/assets/7243109d-84e2-4499-aee8-764bfa43974d" />
+
+### Out Put:
+
+<img width="1091" height="495" alt="image" src="https://github.com/user-attachments/assets/f37fad27-8aa1-4b0d-8b27-b35e46304fb7" />
+
+<img width="1050" height="233" alt="image" src="https://github.com/user-attachments/assets/97118cbe-21fb-442e-85c4-c8b5ab4577d0" />
+
+### Out Put:
+
+<img width="865" height="505" alt="image" src="https://github.com/user-attachments/assets/5ef1c421-8751-4c8a-addf-8730b7b35a5e" />
+
+## Key Insights
+
+High run scorers are not always the fastest scorers.
+
+Strike rate adds important context to batting performance.
+
+Economy and dot-ball percentage are better bowling metrics than wickets alone.
+
+Sample size matters when evaluating player performance.
+
+## Merging Datasets & Advanced Insights
+
+In real-world analytics projects, insights often emerge only after combining data from multiple sources.
+Merging datasets allows analysts to enrich granular data with contextual information and perform deeper analysis.
+
+In this section, we:
+
+Merge match-level and ball-level datasets.
+
+Analyze performance across seasons and match outcomes.
+
+Derive advanced insights by combining player metrics with match context.
+
+Visualize trends using Matplotlib and Seaborn for better storytelling.
+
+
+This step demonstrates the ability to move beyond isolated analysis and generate holistic, business-relevant insights.
+
+<img width="980" height="301" alt="image" src="https://github.com/user-attachments/assets/c26c180c-6040-4746-9f2f-85cbb3b33c05" />
+
+### Out Put:
+
+<img width="1432" height="497" alt="image" src="https://github.com/user-attachments/assets/eca0f57f-3b27-43c3-818c-17351b7bd4d0" />
+
+<img width="826" height="82" alt="image" src="https://github.com/user-attachments/assets/e81e1c02-c760-413b-adfd-c7ffab8280fb" />
+
+### Out Put:
+
+<img width="830" height="722" alt="image" src="https://github.com/user-attachments/assets/56bc8075-d5de-46bd-84a8-c7e400c02f5c" />
+
+<img width="1417" height="572" alt="image" src="https://github.com/user-attachments/assets/e31b0de4-2419-4fe6-94b0-8cf04756ca43" />
+
+### Out Put:
+
+<img width="502" height="720" alt="image" src="https://github.com/user-attachments/assets/ea915769-cf9d-4635-af38-245ad26e56b0" />
+
+<img width="1395" height="372" alt="image" src="https://github.com/user-attachments/assets/1700ea1c-af78-43cc-8a34-dc4137af63a7" />
+
+<img width="1257" height="567" alt="image" src="https://github.com/user-attachments/assets/9d585f0e-d015-4e34-8c84-3356bb4ca5e5" />
+
+<img width="1242" height="320" alt="image" src="https://github.com/user-attachments/assets/0318c13c-f645-4cb7-91cc-1e21ad5f0f5b" />
+
+### Out Put:
+
+<img width="377" height="162" alt="image" src="https://github.com/user-attachments/assets/e3810f1a-6aae-4292-a33d-4d8440a3e062" />
+
+<img width="1286" height="311" alt="image" src="https://github.com/user-attachments/assets/535ce8ab-e866-4485-901a-90329d86bfb1" />
+
+<img width="835" height="477" alt="image" src="https://github.com/user-attachments/assets/bc9882d8-69b7-44c2-8c4c-96bc019c1322" />
+
+<img width="697" height="522" alt="image" src="https://github.com/user-attachments/assets/59d84b66-3a67-4f4b-b29e-e59c156d1d8c" />
+
+### Out Put:
+
+<img width="465" height="286" alt="image" src="https://github.com/user-attachments/assets/3321f208-695f-4bf7-b040-9a3aad8cff6e" />
+
+<img width="567" height="351" alt="image" src="https://github.com/user-attachments/assets/afa3b21e-52b6-4154-a916-3ee25f31e4eb" />
+
+<img width="1331" height="666" alt="image" src="https://github.com/user-attachments/assets/183d57c0-17e7-4300-ad3b-03e8dc90c2cc" />
+
+<img width="817" height="312" alt="image" src="https://github.com/user-attachments/assets/35df2b73-7342-47f9-beb0-d39a82aad3a4" />
+
+### Out Put:
+
+<img width="501" height="262" alt="image" src="https://github.com/user-attachments/assets/dd3674ce-4410-4baf-9cd4-4f998b0b27aa" />
+
+<img width="736" height="192" alt="image" src="https://github.com/user-attachments/assets/a21574c8-48a2-4795-8535-5f2131793fe4" />
+
+<img width="1295" height="742" alt="image" src="https://github.com/user-attachments/assets/123c5747-5899-4c4c-9d3f-02aea24285ab" />
+
+## Key Insights
+
+Average runs per match have increased across IPL seasons.
+
+Toss decisions influence scoring patterns but do not guarantee wins.
+
+Top batsmen show distinct performance trends across seasons.
+
+Winning teams tend to have consistently higher scoring contributions.
+
+## Geographical Analysis: IPL Matches Across India
+
+Geographical analysis helps visualize how events or activities are distributed across locations.
+In the context of IPL, mapping matches by city provides insights into regional distribution, popularity, and infrastructure concentration.
+
+In this section, we:
+
+Analyze the number of IPL matches played across different cities.
+
+Use geographical coordinates to map match locations.
+
+Create an interactive map using the Folium library.
+
+
+This visualization demonstrates the ability to combine data analysis with geospatial storytelling.
+
+<img width="377" height="132" alt="image" src="https://github.com/user-attachments/assets/04cba90b-7220-49d7-b6f8-102e96a48c01" />
+
+<img width="725" height="382" alt="image" src="https://github.com/user-attachments/assets/264db62d-f2c2-4633-bcf6-bde4350ebd8e" />
+
+### Out Put:
+
+<img width="402" height="297" alt="image" src="https://github.com/user-attachments/assets/f867264b-523b-4703-baec-f4a9f3396eaf" />
+
+<img width="730" height="530" alt="image" src="https://github.com/user-attachments/assets/d767291b-0abc-4618-b7ed-cb1c4e98c3b2" />
+
+<img width="801" height="200" alt="image" src="https://github.com/user-attachments/assets/5550e68a-3450-486e-978b-b6a1bd048305" />
+
+### Out Put:
+
+<img width="582" height="297" alt="image" src="https://github.com/user-attachments/assets/1bfeed93-d764-4920-80d6-a25838de96e6" />
+
+<img width="542" height="240" alt="image" src="https://github.com/user-attachments/assets/3ad67cc3-88e6-4db1-8080-f42e7efabc2f" />
+
+<img width="907" height="345" alt="image" src="https://github.com/user-attachments/assets/db569cc6-9d8f-406f-9fba-85b54c9a8141" />
+
+<img width="240" height="60" alt="image" src="https://github.com/user-attachments/assets/33acef35-87db-42ad-9f1c-f31f9ba796fd" />
+
+Make this Notebook Trusted to load map: File -> Trust Notebook
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
