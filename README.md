@@ -409,6 +409,66 @@ Match outcomes vary season by season.
 
 ## Exploratory Data Analysis (EDA): Ball-Level Insights
 
+Ball-level analysis provides the most granular view of the game, allowing us to evaluate individual player performance and in-match patterns.
+By analyzing each delivery, we can derive meaningful batting and bowling metrics that are not directly available in raw match-level data.
+
+In this section, we focus on:
+
+Identifying top-performing batsmen and bowlers.
+
+Understanding scoring patterns through runs, boundaries, and dot balls.
+
+Calculating performance metrics such as strike rate and economy rate.
+
+Evaluating consistency and efficiency of players.
+
+
+This level of analysis is critical for understanding player impact and strategic decision-making.
+
+<img width="1157" height="317" alt="image" src="https://github.com/user-attachments/assets/a1c34610-e0da-4b4b-a1b2-c318862ebc0d" />
+
+### Out Put:
+
+<img width="1165" height="275" alt="image" src="https://github.com/user-attachments/assets/0ec0f18a-497d-49bc-866e-32ca18fba6a0" />
+
+<img width="1012" height="247" alt="image" src="https://github.com/user-attachments/assets/e619fe40-38ba-4611-a013-9dc0b072e74e" />
+
+<img width="1300" height="676" alt="image" src="https://github.com/user-attachments/assets/a04ce9a5-fb95-4add-a48a-5ff73f950b98" />
+
+<img width="1210" height="190" alt="image" src="https://github.com/user-attachments/assets/17a1cbc7-4ab2-4dbd-8750-2334528d50d1" />
+
+### Out Put:
+
+<img width="807" height="272" alt="image" src="https://github.com/user-attachments/assets/839c9a47-de0d-4397-b65e-e0da3a016e85" />
+
+<img width="1271" height="371" alt="image" src="https://github.com/user-attachments/assets/56a8f7fd-5451-4a45-96da-19a6bb6e0372" />
+
+### Out Put:
+
+<img width="1167" height="527" alt="image" src="https://github.com/user-attachments/assets/7c960225-5b80-4a0f-b06a-6188556c3769" />
+
+<img width="1197" height="302" alt="image" src="https://github.com/user-attachments/assets/7c4fe63c-036e-4d7e-95d7-941baddd6c9d" />
+
+### Out Put:
+
+<img width="702" height="272" alt="image" src="https://github.com/user-attachments/assets/608dd74c-7cd9-46fd-8e4a-56353c016d23" />
+
+<img width="1245" height="310" alt="image" src="https://github.com/user-attachments/assets/3dd62efe-34bb-460e-953a-7fde609f4f2f" />
+
+<img width="652" height="257" alt="image" src="https://github.com/user-attachments/assets/097cc5e2-a1f9-4a20-821f-78573e5781ea" />
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
